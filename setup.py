@@ -9,12 +9,12 @@ setup(
         "scipy",
         "pandas"
     ],
-    author="151Wang",
+    author="Shuyi Wang",
     author_email="shuyi.wang@slu.se",
     description="A Python package for Directional Distance Function (DDF) optimization",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com//pyddf",
+    url="https://github.com/Seaaann/ddf",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
